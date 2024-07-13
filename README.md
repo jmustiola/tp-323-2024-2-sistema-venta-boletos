@@ -9,7 +9,7 @@ Tabla de contenidos
     + [Requerimientos](#requerimientos)
     + [Solución](#solución)
 2. [De interés](#de-interés)
-    + [Ambiente de desarrollo para programar el Pascal](#ambiente-de-desarrollo-para-programar-en-pascal)
+    + [Ambiente de desarrollo para programar en Pascal](#ambiente-de-desarrollo-para-programar-en-pascal)
     + [Aprendizaje (enlaces a recursos)](#aprendizaje)
 
 Sistema de venta de boletos para agencia de viajes JCBI - Pascal
