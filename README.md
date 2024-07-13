@@ -1,5 +1,19 @@
+TP - Computación I
+==================
+
+Tabla de contenidos
+-------------------
+
+1. [Sistema de venta de boletos para agencia de viajes JCBI - Pascal](#sistema-de-venta-de-boletos-para-agencia-de-viajes-jcbi---pascal)
+    + [Planteamiento del problema](#planteamiento-del-problema)
+    + [Requerimientos](#requerimientos)
+    + [Solución](#solución)
+2. [De interés](#de-interés)
+    + [Ambiente de desarrollo para programar el Pascal](#ambiente-de-desarrollo-para-programar-en-pascal)
+    + [Aprendizaje (enlaces a recursos)](#aprendizaje)
+
 Sistema de venta de boletos para agencia de viajes JCBI - Pascal
-=======================================================
+================================================================
 
 Planteamiento del problema
 --------------------------
@@ -47,7 +61,7 @@ Con base a lo planteado, diseña un programa en Pascal que, haciendo uso de Arre
     + Cuántos clientes tienen los recaudos vigentes
 
 Solución
-========
+--------
 
 En progreso...
 
