@@ -64,3 +64,12 @@ Aunque VSCode puede ser una buena alternativa para la edición, no obstante su s
 + [Lazarus - Todos los SO](https://sourceforge.net/projects/lazarus/files/)
 
 Si usas Linux, deberás tener instalado `gtk2-devel` como dependencia para poder instalar Lazarus
+
+Aprendizaje
+-----------
+
++ [Introducción a la programación](https://www.youtube.com/watch?v=VxrIZGQfxmE&pp=ygUeaW50cm9kdWNjacOzbiBhIGxhIHByb2dybWFjaW9u)
++ [Lógica de programación](https://www.youtube.com/watch?v=TdITcVD64zI&t=14500s&pp=ygUXbG9naWNhIGEgbGEgcHJvZ3JtYWNpb24%3D)
++ [Curso de programación en Pascal](https://www.nachocabanes.com/pascal/curso/)
++ [Roadmaps para diversas carreras](https://roadmap.sh/)
++ [Roadmap de programación](https://retosdeprogramacion.com/roadmap/)
