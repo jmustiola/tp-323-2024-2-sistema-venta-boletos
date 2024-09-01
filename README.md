@@ -63,7 +63,7 @@ Con base a lo planteado, diseña un programa en Pascal que, haciendo uso de Arre
 Solución
 --------
 
-En progreso...
++ [Python](https://github.com/jmustiola/tp-323-2024-2-sistema-venta-boletos/tree/main/python)
 
 De interés
 ==========
