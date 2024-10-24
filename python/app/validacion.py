@@ -10,7 +10,7 @@ def es_fecha_pasada(fecha_string: str) -> bool:
     return fecha < today
 
 def es_fecha_valida(fecha_string: str) -> bool:
-    PATTERN = r"(0[1-9]|1[012])\/(0[1-9]|[12][0-9]|3[01])\/(19|20)\d{2}$"
+    PATTERN = r"(0[1-9]|1[012])\/(0[1-9]|[12][0-9]|3[01])\/(1|2)\d{3}$"
     return isinstance(fecha_string, str) and re.match(PATTERN, fecha_string)
 
 
